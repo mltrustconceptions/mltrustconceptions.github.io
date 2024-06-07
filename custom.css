@@ -12,17 +12,10 @@
   max-height: 100%;
   float: left;
   width: 150px;
-  text-align: center;
-  vertical-align: middle;
 }
 
 /* Style for bio text */
 .bio-text {
   margin-left: 160px;
-  text-align: center;
-  vertical-align: middle;
 }
 
-img {
-  vertical-align: middle;
-}
