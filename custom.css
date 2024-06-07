@@ -9,8 +9,6 @@
 .bio-picture {
   width: 300px; /* Adjust size as needed */
   height: 300px; /* Adjust size as needed */
-  border-radius: 50%; /* Makes the image circular */
-  overflow: hidden;
 }
 
 /* Style for bio text */
