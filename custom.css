@@ -4,6 +4,9 @@
   overflow: hidden;
   margin-bottom: 100px;
   vertical-align: middle;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 /* Style for profile picture */
@@ -12,6 +15,9 @@
   max-height: 100%;
   float: left;
   width: 150px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 /* Style for bio text */
