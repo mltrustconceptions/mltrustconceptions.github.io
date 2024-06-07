@@ -2,7 +2,7 @@
 .bio-container {
   width: 100%;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
 }
 
 /* Style for profile picture */
@@ -11,10 +11,12 @@
   max-height: 100%;
   float: left;
   width: 150px;
+  text-align: center;
 }
 
 /* Style for bio text */
 .bio-text {
   margin-left: 160px;
+  text-align: center;
 }
 
