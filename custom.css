@@ -7,8 +7,8 @@
 
 /* Style for profile picture */
 .bio-picture {
-  width: 100px; /* Adjust size as needed */
-  height: 100px; /* Adjust size as needed */
+  width: 300px; /* Adjust size as needed */
+  height: 300px; /* Adjust size as needed */
   border-radius: 50%; /* Makes the image circular */
   overflow: hidden;
 }
